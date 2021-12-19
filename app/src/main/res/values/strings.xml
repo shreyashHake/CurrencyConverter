@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="INR">Indian Rupee</string>
+    <string name="USD">US Dollar</string>
+    <string name="convert">Convert</string>
+    <string name="awake_call">Enter the amount first</string>
+    <string name="clearAll">Clear</string>
+</resources>
